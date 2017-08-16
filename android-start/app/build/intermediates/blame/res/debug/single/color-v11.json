@@ -1,0 +1,10 @@
+[
+    {
+        "merged": "/home/tony/Documents/AndroidTrainning/FBCodeLab/friendlychat-android/android-start/app/build/intermediates/res/merged/debug/color-v11/abc_background_cache_hint_selector_material_light.xml",
+        "source": "/home/tony/.android/build-cache/bc29da7581ef0729fe099dba78b210a122dfd43a/output/res/color-v11/abc_background_cache_hint_selector_material_light.xml"
+    },
+    {
+        "merged": "/home/tony/Documents/AndroidTrainning/FBCodeLab/friendlychat-android/android-start/app/build/intermediates/res/merged/debug/color-v11/abc_background_cache_hint_selector_material_dark.xml",
+        "source": "/home/tony/.android/build-cache/bc29da7581ef0729fe099dba78b210a122dfd43a/output/res/color-v11/abc_background_cache_hint_selector_material_dark.xml"
+    }
+]

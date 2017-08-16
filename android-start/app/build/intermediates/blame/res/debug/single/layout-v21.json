@@ -1,0 +1,18 @@
+[
+    {
+        "merged": "/home/tony/Documents/AndroidTrainning/FBCodeLab/friendlychat-android/android-start/app/build/intermediates/res/merged/debug/layout-v21/notification_action.xml",
+        "source": "/home/tony/.android/build-cache/bc29da7581ef0729fe099dba78b210a122dfd43a/output/res/layout-v21/notification_action.xml"
+    },
+    {
+        "merged": "/home/tony/Documents/AndroidTrainning/FBCodeLab/friendlychat-android/android-start/app/build/intermediates/res/merged/debug/layout-v21/notification_template_icon_group.xml",
+        "source": "/home/tony/.android/build-cache/bc29da7581ef0729fe099dba78b210a122dfd43a/output/res/layout-v21/notification_template_icon_group.xml"
+    },
+    {
+        "merged": "/home/tony/Documents/AndroidTrainning/FBCodeLab/friendlychat-android/android-start/app/build/intermediates/res/merged/debug/layout-v21/notification_template_custom_big.xml",
+        "source": "/home/tony/.android/build-cache/bc29da7581ef0729fe099dba78b210a122dfd43a/output/res/layout-v21/notification_template_custom_big.xml"
+    },
+    {
+        "merged": "/home/tony/Documents/AndroidTrainning/FBCodeLab/friendlychat-android/android-start/app/build/intermediates/res/merged/debug/layout-v21/notification_action_tombstone.xml",
+        "source": "/home/tony/.android/build-cache/bc29da7581ef0729fe099dba78b210a122dfd43a/output/res/layout-v21/notification_action_tombstone.xml"
+    }
+]

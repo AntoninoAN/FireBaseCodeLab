@@ -86,6 +86,7 @@ public class SignInActivity extends AppCompatActivity implements
                 .addApi(Auth.GOOGLE_SIGN_IN_API, gso)
                 .build();
         //Initialize LogiButton
+        myCallBackManager= CallbackManager.Factory.create();
         myLoginFBBUtton.setReadPermissions("email","public_profile");
         myLoginFBBUtton.registerCallback(myCallBackManager, new FacebookCallback<LoginResult>() {
             @Override
@@ -98,7 +99,7 @@ public class SignInActivity extends AppCompatActivity implements
             public void onCancel() {
                 Log.d(TAG, "facebook:onCancel");
                 // [START_EXCLUDE]
-                updateUI(null);
+                //updateUI(null);
                 // [END_EXCLUDE]
             }
 
@@ -106,7 +107,7 @@ public class SignInActivity extends AppCompatActivity implements
             public void onError(FacebookException e) {
                 Log.d(TAG, "facebook:onError", e);
                 // [START_EXCLUDE]
-                updateUI(null);
+                //updateUI(null);
                 // [END_EXCLUDE]
             }
         });
@@ -192,7 +193,9 @@ public class SignInActivity extends AppCompatActivity implements
                             // Sign in success, update UI with the signed-in user's information
                             Log.d(TAG, "signInWithCredential:success");
                             FirebaseUser user = mFirebaseAuth.getCurrentUser();
-                            updateUI(user);
+                            //updateUI(user);
+                            startActivity(new Intent(SignInActivity.this, MainActivity.class));
+                            finish();
                         } else {
                             // If sign in fails, display a message to the user.
                             Log.w(TAG, "signInWithCredential:failure", task.getException());

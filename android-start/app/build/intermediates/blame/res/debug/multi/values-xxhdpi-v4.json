@@ -1,0 +1,26 @@
+[
+    {
+        "outputFile": "/home/tony/Documents/AndroidTrainning/FBCodeLab/friendlychat-android/android-start/app/build/intermediates/incremental/mergeDebugResources/merged.dir/values-xxhdpi-v4/values-xxhdpi-v4.xml",
+        "map": [
+            {
+                "to": {
+                    "startLine": 2,
+                    "startColumn": 4,
+                    "startOffset": 55,
+                    "endColumn": 54,
+                    "endOffset": 105
+                },
+                "from": {
+                    "file": "/home/tony/.android/build-cache/82d9a954130084ee20ebfa1f92eff49d60e010cd/output/res/values-xxhdpi-v4/values-xxhdpi-v4.xml",
+                    "position": {
+                        "startLine": 2,
+                        "startColumn": 4,
+                        "startOffset": 55,
+                        "endColumn": 54,
+                        "endOffset": 105
+                    }
+                }
+            }
+        ]
+    }
+]

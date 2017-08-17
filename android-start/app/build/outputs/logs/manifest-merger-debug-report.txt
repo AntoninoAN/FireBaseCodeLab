@@ -1,6 +1,6 @@
 -- Merging decision tree log ---
 manifest
-ADDED from /home/tony/Documents/AndroidTrainning/FBCodeLab/friendlychat-android/android-start/app/src/main/AndroidManifest.xml:2:1-68:12
+ADDED from /home/tony/Documents/AndroidTrainning/FBCodeLab/friendlychat-android/android-start/app/src/main/AndroidManifest.xml:2:1-69:12
 	package
 		ADDED from /home/tony/Documents/AndroidTrainning/FBCodeLab/friendlychat-android/android-start/app/src/main/AndroidManifest.xml:3:5-55
 		INJECTED from /home/tony/Documents/AndroidTrainning/FBCodeLab/friendlychat-android/android-start/app/src/main/AndroidManifest.xml
@@ -19,13 +19,16 @@ MERGED from [com.google.android.gms:play-services-appinvite:10.2.1] /home/tony/.
 MERGED from [com.google.android.gms:play-services-ads-lite:10.2.1] /home/tony/.android/build-cache/a77b64848686c490be13aca53fa4f6995f7fa4f4/output/AndroidManifest.xml:19:5-66
 MERGED from [com.google.firebase:firebase-crash:10.2.1] /home/tony/.android/build-cache/682c7c61a4cf5ce32769e770451fa3b39bb8cb74/output/AndroidManifest.xml:18:5-66
 MERGED from [com.firebaseui:firebase-ui-database:1.2.0] /home/tony/.android/build-cache/97c5117af9bf200daa93f55277c4fb942d82dff1/output/AndroidManifest.xml:11:5-67
+MERGED from [com.twitter.sdk.android:tweet-ui:3.1.1] /home/tony/.android/build-cache/1720c9030cb4ba915876361b051e2fb2e5b5cae4/output/AndroidManifest.xml:25:5-67
+MERGED from [com.twitter.sdk.android:tweet-composer:3.1.1] /home/tony/.android/build-cache/a6b0471eab2ad3e5fe9e2924afbf9be126b4e31a/output/AndroidManifest.xml:25:5-67
+MERGED from [com.twitter.sdk.android:twitter-core:3.1.1] /home/tony/.android/build-cache/82d9a954130084ee20ebfa1f92eff49d60e010cd/output/AndroidManifest.xml:25:5-67
 MERGED from [com.google.firebase:firebase-analytics:10.2.1] /home/tony/.android/build-cache/ddf313edef25780102f2593a0e596388c3802313/output/AndroidManifest.xml:20:5-66
 MERGED from [com.google.firebase:firebase-analytics-impl:10.2.1] /home/tony/.android/build-cache/826f17da8a75a22d2d895b43a54339f890a6a23d/output/AndroidManifest.xml:20:5-66
 MERGED from [com.google.firebase:firebase-iid:10.2.1] /home/tony/.android/build-cache/f7359377a059135fe281c6be257139fd21671a52/output/AndroidManifest.xml:20:5-66
 	android:name
 		ADDED from /home/tony/Documents/AndroidTrainning/FBCodeLab/friendlychat-android/android-start/app/src/main/AndroidManifest.xml:4:22-64
 application
-ADDED from /home/tony/Documents/AndroidTrainning/FBCodeLab/friendlychat-android/android-start/app/src/main/AndroidManifest.xml:5:5-66:19
+ADDED from /home/tony/Documents/AndroidTrainning/FBCodeLab/friendlychat-android/android-start/app/src/main/AndroidManifest.xml:5:5-67:19
 MERGED from [com.android.support:design:25.3.1] /home/tony/.android/build-cache/52b56daa6b418de31c994cf0a492c5cff729e932/output/AndroidManifest.xml:29:5-20
 MERGED from [com.android.support:transition:25.3.1] /home/tony/.android/build-cache/641e3ddfb8f8faf8239b5bd40fa31ea6252a1305/output/AndroidManifest.xml:26:5-20
 MERGED from [de.hdodenhof:circleimageview:1.3.0] /home/tony/.android/build-cache/06695aafb9f5aed9430f49d604f7119b6ea33a79/output/AndroidManifest.xml:9:5-20
@@ -47,6 +50,10 @@ MERGED from [com.android.support:animated-vector-drawable:25.3.1] /home/tony/.an
 MERGED from [com.android.support:support-vector-drawable:25.3.1] /home/tony/.android/build-cache/268af6bce2d8b8b0be409d2cb31f75d9934268e3/output/AndroidManifest.xml:26:5-20
 MERGED from [com.android.support:cardview-v7:25.3.1] /home/tony/.android/build-cache/fb0cdf3a36522369a49a0f42fed3d91c7cec4cdf/output/AndroidManifest.xml:26:5-20
 MERGED from [com.android.support:customtabs:25.3.1] /home/tony/.android/build-cache/ab6ebf3b8e4e05dab53a5f4d53b4a46713710309/output/AndroidManifest.xml:26:5-20
+MERGED from [com.twitter.sdk.android:twitter:3.1.1] /home/tony/.android/build-cache/ee067d05594aba59314ba393f638d66c9a49d416/output/AndroidManifest.xml:25:5-20
+MERGED from [com.twitter.sdk.android:tweet-ui:3.1.1] /home/tony/.android/build-cache/1720c9030cb4ba915876361b051e2fb2e5b5cae4/output/AndroidManifest.xml:27:5-35:19
+MERGED from [com.twitter.sdk.android:tweet-composer:3.1.1] /home/tony/.android/build-cache/a6b0471eab2ad3e5fe9e2924afbf9be126b4e31a/output/AndroidManifest.xml:27:5-37:19
+MERGED from [com.twitter.sdk.android:twitter-core:3.1.1] /home/tony/.android/build-cache/82d9a954130084ee20ebfa1f92eff49d60e010cd/output/AndroidManifest.xml:27:5-33:19
 MERGED from [com.google.firebase:firebase-core:10.2.1] /home/tony/.android/build-cache/a71d600af8ed91ecf546613db39a2854d6288e3d/output/AndroidManifest.xml:5:5-20
 MERGED from [com.google.firebase:firebase-analytics:10.2.1] /home/tony/.android/build-cache/ddf313edef25780102f2593a0e596388c3802313/output/AndroidManifest.xml:24:5-33:19
 MERGED from [com.google.firebase:firebase-analytics-impl:10.2.1] /home/tony/.android/build-cache/826f17da8a75a22d2d895b43a54339f890a6a23d/output/AndroidManifest.xml:24:5-28:19
@@ -178,7 +185,6 @@ MERGED from [com.google.android.gms:play-services-base:10.2.1] /home/tony/.andro
 MERGED from [com.google.android.gms:play-services-gass:10.2.1] /home/tony/.android/build-cache/391e0d57648c81c3b886292a620d18a97625e314/output/AndroidManifest.xml:3:5-43
 MERGED from [com.google.firebase:firebase-crash:10.2.1] /home/tony/.android/build-cache/682c7c61a4cf5ce32769e770451fa3b39bb8cb74/output/AndroidManifest.xml:20:5-43
 MERGED from [com.firebaseui:firebase-ui-database:1.2.0] /home/tony/.android/build-cache/97c5117af9bf200daa93f55277c4fb942d82dff1/output/AndroidManifest.xml:7:5-9:41
-MERGED from [com.android.support:recyclerview-v7:25.3.1] /home/tony/.android/build-cache/5991405dad52d07f20e34dcabdbc581ec89ab4fc/output/AndroidManifest.xml:20:5-43
 MERGED from [com.google.firebase:firebase-database:10.2.1] /home/tony/.android/build-cache/834a8200a82363ea4c1251b9e984124921b9cb5f/output/AndroidManifest.xml:3:5-43
 MERGED from [com.google.firebase:firebase-database-connection:10.2.1] /home/tony/.android/build-cache/75bb86b987b53dab1109ac247437ad3d5322d49a/output/AndroidManifest.xml:3:5-43
 MERGED from [com.facebook.android:facebook-android-sdk:4.25.0] /home/tony/.android/build-cache/91b413f1176f1fb5f66ab5de619f8831fd7d9cac/output/AndroidManifest.xml:24:5-26:41
@@ -187,6 +193,11 @@ MERGED from [com.android.support:animated-vector-drawable:25.3.1] /home/tony/.an
 MERGED from [com.android.support:support-vector-drawable:25.3.1] /home/tony/.android/build-cache/268af6bce2d8b8b0be409d2cb31f75d9934268e3/output/AndroidManifest.xml:20:5-43
 MERGED from [com.android.support:cardview-v7:25.3.1] /home/tony/.android/build-cache/fb0cdf3a36522369a49a0f42fed3d91c7cec4cdf/output/AndroidManifest.xml:20:5-43
 MERGED from [com.android.support:customtabs:25.3.1] /home/tony/.android/build-cache/ab6ebf3b8e4e05dab53a5f4d53b4a46713710309/output/AndroidManifest.xml:20:5-44
+MERGED from [com.twitter.sdk.android:twitter:3.1.1] /home/tony/.android/build-cache/ee067d05594aba59314ba393f638d66c9a49d416/output/AndroidManifest.xml:23:5-44
+MERGED from [com.twitter.sdk.android:tweet-ui:3.1.1] /home/tony/.android/build-cache/1720c9030cb4ba915876361b051e2fb2e5b5cae4/output/AndroidManifest.xml:23:5-44
+MERGED from [com.android.support:recyclerview-v7:25.3.1] /home/tony/.android/build-cache/5991405dad52d07f20e34dcabdbc581ec89ab4fc/output/AndroidManifest.xml:20:5-43
+MERGED from [com.twitter.sdk.android:tweet-composer:3.1.1] /home/tony/.android/build-cache/a6b0471eab2ad3e5fe9e2924afbf9be126b4e31a/output/AndroidManifest.xml:23:5-44
+MERGED from [com.twitter.sdk.android:twitter-core:3.1.1] /home/tony/.android/build-cache/82d9a954130084ee20ebfa1f92eff49d60e010cd/output/AndroidManifest.xml:23:5-44
 MERGED from [com.google.firebase:firebase-core:10.2.1] /home/tony/.android/build-cache/a71d600af8ed91ecf546613db39a2854d6288e3d/output/AndroidManifest.xml:4:5-43
 MERGED from [com.google.firebase:firebase-analytics:10.2.1] /home/tony/.android/build-cache/ddf313edef25780102f2593a0e596388c3802313/output/AndroidManifest.xml:17:5-43
 MERGED from [com.google.firebase:firebase-analytics-impl:10.2.1] /home/tony/.android/build-cache/826f17da8a75a22d2d895b43a54339f890a6a23d/output/AndroidManifest.xml:17:5-43
@@ -211,12 +222,12 @@ MERGED from [com.android.support:support-compat:25.3.1] /home/tony/.android/buil
 meta-data#android.support.VERSION
 ADDED from [com.android.support:design:25.3.1] /home/tony/.android/build-cache/52b56daa6b418de31c994cf0a492c5cff729e932/output/AndroidManifest.xml:25:5-27:34
 MERGED from [com.android.support:transition:25.3.1] /home/tony/.android/build-cache/641e3ddfb8f8faf8239b5bd40fa31ea6252a1305/output/AndroidManifest.xml:22:5-24:34
-MERGED from [com.android.support:recyclerview-v7:25.3.1] /home/tony/.android/build-cache/5991405dad52d07f20e34dcabdbc581ec89ab4fc/output/AndroidManifest.xml:22:5-24:34
 MERGED from [com.android.support:appcompat-v7:25.3.1] /home/tony/.android/build-cache/bc29da7581ef0729fe099dba78b210a122dfd43a/output/AndroidManifest.xml:25:5-27:34
 MERGED from [com.android.support:animated-vector-drawable:25.3.1] /home/tony/.android/build-cache/e5b45b28fa3b73a3e191bb0417ab1e537e342d08/output/AndroidManifest.xml:22:5-24:34
 MERGED from [com.android.support:support-vector-drawable:25.3.1] /home/tony/.android/build-cache/268af6bce2d8b8b0be409d2cb31f75d9934268e3/output/AndroidManifest.xml:22:5-24:34
 MERGED from [com.android.support:cardview-v7:25.3.1] /home/tony/.android/build-cache/fb0cdf3a36522369a49a0f42fed3d91c7cec4cdf/output/AndroidManifest.xml:22:5-24:34
 MERGED from [com.android.support:customtabs:25.3.1] /home/tony/.android/build-cache/ab6ebf3b8e4e05dab53a5f4d53b4a46713710309/output/AndroidManifest.xml:22:5-24:34
+MERGED from [com.android.support:recyclerview-v7:25.3.1] /home/tony/.android/build-cache/5991405dad52d07f20e34dcabdbc581ec89ab4fc/output/AndroidManifest.xml:22:5-24:34
 MERGED from [com.android.support:support-v4:25.3.1] /home/tony/.android/build-cache/f93dd3a2fe959050f8ea895f6f478ad2bb698db4/output/AndroidManifest.xml:25:5-27:34
 MERGED from [com.android.support:support-fragment:25.3.1] /home/tony/.android/build-cache/ed17f1acdd7a99682d4ae03176dfd7c06ebd973c/output/AndroidManifest.xml:25:5-27:34
 MERGED from [com.android.support:support-media-compat:25.3.1] /home/tony/.android/build-cache/37be753a4b21c417093741b9dbdfdf2cc1adbd20/output/AndroidManifest.xml:25:5-27:34
@@ -313,6 +324,46 @@ ADDED from [com.facebook.android:facebook-android-sdk:4.25.0] /home/tony/.androi
 		ADDED from [com.facebook.android:facebook-android-sdk:4.25.0] /home/tony/.android/build-cache/91b413f1176f1fb5f66ab5de619f8831fd7d9cac/output/AndroidManifest.xml:47:13-37
 	android:name
 		ADDED from [com.facebook.android:facebook-android-sdk:4.25.0] /home/tony/.android/build-cache/91b413f1176f1fb5f66ab5de619f8831fd7d9cac/output/AndroidManifest.xml:45:13-70
+activity#com.twitter.sdk.android.tweetui.PlayerActivity
+ADDED from [com.twitter.sdk.android:tweet-ui:3.1.1] /home/tony/.android/build-cache/1720c9030cb4ba915876361b051e2fb2e5b5cae4/output/AndroidManifest.xml:28:9-31:49
+	android:configChanges
+		ADDED from [com.twitter.sdk.android:tweet-ui:3.1.1] /home/tony/.android/build-cache/1720c9030cb4ba915876361b051e2fb2e5b5cae4/output/AndroidManifest.xml:30:13-74
+	android:theme
+		ADDED from [com.twitter.sdk.android:tweet-ui:3.1.1] /home/tony/.android/build-cache/1720c9030cb4ba915876361b051e2fb2e5b5cae4/output/AndroidManifest.xml:31:13-46
+	android:name
+		ADDED from [com.twitter.sdk.android:tweet-ui:3.1.1] /home/tony/.android/build-cache/1720c9030cb4ba915876361b051e2fb2e5b5cae4/output/AndroidManifest.xml:29:13-74
+activity#com.twitter.sdk.android.tweetui.GalleryActivity
+ADDED from [com.twitter.sdk.android:tweet-ui:3.1.1] /home/tony/.android/build-cache/1720c9030cb4ba915876361b051e2fb2e5b5cae4/output/AndroidManifest.xml:32:9-34:49
+	android:theme
+		ADDED from [com.twitter.sdk.android:tweet-ui:3.1.1] /home/tony/.android/build-cache/1720c9030cb4ba915876361b051e2fb2e5b5cae4/output/AndroidManifest.xml:34:13-46
+	android:name
+		ADDED from [com.twitter.sdk.android:tweet-ui:3.1.1] /home/tony/.android/build-cache/1720c9030cb4ba915876361b051e2fb2e5b5cae4/output/AndroidManifest.xml:33:13-75
+activity#com.twitter.sdk.android.tweetcomposer.ComposerActivity
+ADDED from [com.twitter.sdk.android:tweet-composer:3.1.1] /home/tony/.android/build-cache/a6b0471eab2ad3e5fe9e2924afbf9be126b4e31a/output/AndroidManifest.xml:28:9-31:71
+	android:exported
+		ADDED from [com.twitter.sdk.android:tweet-composer:3.1.1] /home/tony/.android/build-cache/a6b0471eab2ad3e5fe9e2924afbf9be126b4e31a/output/AndroidManifest.xml:30:13-37
+	android:windowSoftInputMode
+		ADDED from [com.twitter.sdk.android:tweet-composer:3.1.1] /home/tony/.android/build-cache/a6b0471eab2ad3e5fe9e2924afbf9be126b4e31a/output/AndroidManifest.xml:31:13-68
+	android:name
+		ADDED from [com.twitter.sdk.android:tweet-composer:3.1.1] /home/tony/.android/build-cache/a6b0471eab2ad3e5fe9e2924afbf9be126b4e31a/output/AndroidManifest.xml:29:13-82
+service#com.twitter.sdk.android.tweetcomposer.TweetUploadService
+ADDED from [com.twitter.sdk.android:tweet-composer:3.1.1] /home/tony/.android/build-cache/a6b0471eab2ad3e5fe9e2924afbf9be126b4e31a/output/AndroidManifest.xml:33:9-36:40
+	android:enabled
+		ADDED from [com.twitter.sdk.android:tweet-composer:3.1.1] /home/tony/.android/build-cache/a6b0471eab2ad3e5fe9e2924afbf9be126b4e31a/output/AndroidManifest.xml:35:13-35
+	android:exported
+		ADDED from [com.twitter.sdk.android:tweet-composer:3.1.1] /home/tony/.android/build-cache/a6b0471eab2ad3e5fe9e2924afbf9be126b4e31a/output/AndroidManifest.xml:36:13-37
+	android:name
+		ADDED from [com.twitter.sdk.android:tweet-composer:3.1.1] /home/tony/.android/build-cache/a6b0471eab2ad3e5fe9e2924afbf9be126b4e31a/output/AndroidManifest.xml:34:13-84
+activity#com.twitter.sdk.android.core.identity.OAuthActivity
+ADDED from [com.twitter.sdk.android:twitter-core:3.1.1] /home/tony/.android/build-cache/82d9a954130084ee20ebfa1f92eff49d60e010cd/output/AndroidManifest.xml:28:9-32:40
+	android:excludeFromRecents
+		ADDED from [com.twitter.sdk.android:twitter-core:3.1.1] /home/tony/.android/build-cache/82d9a954130084ee20ebfa1f92eff49d60e010cd/output/AndroidManifest.xml:31:13-46
+	android:exported
+		ADDED from [com.twitter.sdk.android:twitter-core:3.1.1] /home/tony/.android/build-cache/82d9a954130084ee20ebfa1f92eff49d60e010cd/output/AndroidManifest.xml:32:13-37
+	android:configChanges
+		ADDED from [com.twitter.sdk.android:twitter-core:3.1.1] /home/tony/.android/build-cache/82d9a954130084ee20ebfa1f92eff49d60e010cd/output/AndroidManifest.xml:30:13-59
+	android:name
+		ADDED from [com.twitter.sdk.android:twitter-core:3.1.1] /home/tony/.android/build-cache/82d9a954130084ee20ebfa1f92eff49d60e010cd/output/AndroidManifest.xml:29:13-79
 uses-permission#android.permission.WAKE_LOCK
 ADDED from [com.google.firebase:firebase-analytics:10.2.1] /home/tony/.android/build-cache/ddf313edef25780102f2593a0e596388c3802313/output/AndroidManifest.xml:22:5-67
 MERGED from [com.google.firebase:firebase-analytics-impl:10.2.1] /home/tony/.android/build-cache/826f17da8a75a22d2d895b43a54339f890a6a23d/output/AndroidManifest.xml:22:5-67

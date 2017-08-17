@@ -12,6 +12,10 @@
         "source": "/home/tony/.android/build-cache/bc29da7581ef0729fe099dba78b210a122dfd43a/output/res/anim/abc_slide_in_top.xml"
     },
     {
+        "merged": "/home/tony/Documents/AndroidTrainning/FBCodeLab/friendlychat-android/android-start/app/build/intermediates/res/merged/debug/anim/tw__accelerate_cubic.xml",
+        "source": "/home/tony/.android/build-cache/1720c9030cb4ba915876361b051e2fb2e5b5cae4/output/res/anim/tw__accelerate_cubic.xml"
+    },
+    {
         "merged": "/home/tony/Documents/AndroidTrainning/FBCodeLab/friendlychat-android/android-start/app/build/intermediates/res/merged/debug/anim/abc_slide_in_bottom.xml",
         "source": "/home/tony/.android/build-cache/bc29da7581ef0729fe099dba78b210a122dfd43a/output/res/anim/abc_slide_in_bottom.xml"
     },
@@ -30,6 +34,10 @@
     {
         "merged": "/home/tony/Documents/AndroidTrainning/FBCodeLab/friendlychat-android/android-start/app/build/intermediates/res/merged/debug/anim/design_snackbar_in.xml",
         "source": "/home/tony/.android/build-cache/52b56daa6b418de31c994cf0a492c5cff729e932/output/res/anim/design_snackbar_in.xml"
+    },
+    {
+        "merged": "/home/tony/Documents/AndroidTrainning/FBCodeLab/friendlychat-android/android-start/app/build/intermediates/res/merged/debug/anim/tw__slide_out.xml",
+        "source": "/home/tony/.android/build-cache/1720c9030cb4ba915876361b051e2fb2e5b5cae4/output/res/anim/tw__slide_out.xml"
     },
     {
         "merged": "/home/tony/Documents/AndroidTrainning/FBCodeLab/friendlychat-android/android-start/app/build/intermediates/res/merged/debug/anim/abc_fade_out.xml",

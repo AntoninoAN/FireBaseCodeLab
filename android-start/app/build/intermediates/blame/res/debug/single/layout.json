@@ -1,5 +1,9 @@
 [
     {
+        "merged": "/home/tony/Documents/AndroidTrainning/FBCodeLab/friendlychat-android/android-start/app/build/intermediates/res/merged/debug/layout/tw__composer_view.xml",
+        "source": "/home/tony/.android/build-cache/a6b0471eab2ad3e5fe9e2924afbf9be126b4e31a/output/res/layout/tw__composer_view.xml"
+    },
+    {
         "merged": "/home/tony/Documents/AndroidTrainning/FBCodeLab/friendlychat-android/android-start/app/build/intermediates/res/merged/debug/layout/abc_dialog_title_material.xml",
         "source": "/home/tony/.android/build-cache/bc29da7581ef0729fe099dba78b210a122dfd43a/output/res/layout/abc_dialog_title_material.xml"
     },
@@ -30,6 +34,10 @@
     {
         "merged": "/home/tony/Documents/AndroidTrainning/FBCodeLab/friendlychat-android/android-start/app/build/intermediates/res/merged/debug/layout/notification_template_lines_media.xml",
         "source": "/home/tony/.android/build-cache/bc29da7581ef0729fe099dba78b210a122dfd43a/output/res/layout/notification_template_lines_media.xml"
+    },
+    {
+        "merged": "/home/tony/Documents/AndroidTrainning/FBCodeLab/friendlychat-android/android-start/app/build/intermediates/res/merged/debug/layout/tw__player_activity.xml",
+        "source": "/home/tony/.android/build-cache/1720c9030cb4ba915876361b051e2fb2e5b5cae4/output/res/layout/tw__player_activity.xml"
     },
     {
         "merged": "/home/tony/Documents/AndroidTrainning/FBCodeLab/friendlychat-android/android-start/app/build/intermediates/res/merged/debug/layout/design_layout_tab_icon.xml",
@@ -92,6 +100,10 @@
         "source": "/home/tony/.android/build-cache/91b413f1176f1fb5f66ab5de619f8831fd7d9cac/output/res/layout/messenger_button_send_white_small.xml"
     },
     {
+        "merged": "/home/tony/Documents/AndroidTrainning/FBCodeLab/friendlychat-android/android-start/app/build/intermediates/res/merged/debug/layout/tw__gallery_activity.xml",
+        "source": "/home/tony/.android/build-cache/1720c9030cb4ba915876361b051e2fb2e5b5cae4/output/res/layout/tw__gallery_activity.xml"
+    },
+    {
         "merged": "/home/tony/Documents/AndroidTrainning/FBCodeLab/friendlychat-android/android-start/app/build/intermediates/res/merged/debug/layout/select_dialog_singlechoice_material.xml",
         "source": "/home/tony/.android/build-cache/bc29da7581ef0729fe099dba78b210a122dfd43a/output/res/layout/select_dialog_singlechoice_material.xml"
     },
@@ -122,6 +134,10 @@
     {
         "merged": "/home/tony/Documents/AndroidTrainning/FBCodeLab/friendlychat-android/android-start/app/build/intermediates/res/merged/debug/layout/notification_action.xml",
         "source": "/home/tony/.android/build-cache/bc29da7581ef0729fe099dba78b210a122dfd43a/output/res/layout/notification_action.xml"
+    },
+    {
+        "merged": "/home/tony/Documents/AndroidTrainning/FBCodeLab/friendlychat-android/android-start/app/build/intermediates/res/merged/debug/layout/tw__activity_composer.xml",
+        "source": "/home/tony/.android/build-cache/a6b0471eab2ad3e5fe9e2924afbf9be126b4e31a/output/res/layout/tw__activity_composer.xml"
     },
     {
         "merged": "/home/tony/Documents/AndroidTrainning/FBCodeLab/friendlychat-android/android-start/app/build/intermediates/res/merged/debug/layout/abc_select_dialog_material.xml",
@@ -168,6 +184,10 @@
         "source": "/home/tony/.android/build-cache/52b56daa6b418de31c994cf0a492c5cff729e932/output/res/layout/design_layout_tab_text.xml"
     },
     {
+        "merged": "/home/tony/Documents/AndroidTrainning/FBCodeLab/friendlychat-android/android-start/app/build/intermediates/res/merged/debug/layout/tw__tweet_compact.xml",
+        "source": "/home/tony/.android/build-cache/1720c9030cb4ba915876361b051e2fb2e5b5cae4/output/res/layout/tw__tweet_compact.xml"
+    },
+    {
         "merged": "/home/tony/Documents/AndroidTrainning/FBCodeLab/friendlychat-android/android-start/app/build/intermediates/res/merged/debug/layout/messenger_button_send_white_large.xml",
         "source": "/home/tony/.android/build-cache/91b413f1176f1fb5f66ab5de619f8831fd7d9cac/output/res/layout/messenger_button_send_white_large.xml"
     },
@@ -182,6 +202,10 @@
     {
         "merged": "/home/tony/Documents/AndroidTrainning/FBCodeLab/friendlychat-android/android-start/app/build/intermediates/res/merged/debug/layout/abc_list_menu_item_radio.xml",
         "source": "/home/tony/.android/build-cache/bc29da7581ef0729fe099dba78b210a122dfd43a/output/res/layout/abc_list_menu_item_radio.xml"
+    },
+    {
+        "merged": "/home/tony/Documents/AndroidTrainning/FBCodeLab/friendlychat-android/android-start/app/build/intermediates/res/merged/debug/layout/tw__activity_oauth.xml",
+        "source": "/home/tony/.android/build-cache/82d9a954130084ee20ebfa1f92eff49d60e010cd/output/res/layout/tw__activity_oauth.xml"
     },
     {
         "merged": "/home/tony/Documents/AndroidTrainning/FBCodeLab/friendlychat-android/android-start/app/build/intermediates/res/merged/debug/layout/design_text_input_password_icon.xml",
@@ -232,12 +256,20 @@
         "source": "/home/tony/.android/build-cache/91b413f1176f1fb5f66ab5de619f8831fd7d9cac/output/res/layout/com_facebook_device_auth_dialog_fragment.xml"
     },
     {
+        "merged": "/home/tony/Documents/AndroidTrainning/FBCodeLab/friendlychat-android/android-start/app/build/intermediates/res/merged/debug/layout/tw__action_bar.xml",
+        "source": "/home/tony/.android/build-cache/1720c9030cb4ba915876361b051e2fb2e5b5cae4/output/res/layout/tw__action_bar.xml"
+    },
+    {
         "merged": "/home/tony/Documents/AndroidTrainning/FBCodeLab/friendlychat-android/android-start/app/build/intermediates/res/merged/debug/layout/notification_template_icon_group.xml",
         "source": "/home/tony/.android/build-cache/bc29da7581ef0729fe099dba78b210a122dfd43a/output/res/layout/notification_template_icon_group.xml"
     },
     {
         "merged": "/home/tony/Documents/AndroidTrainning/FBCodeLab/friendlychat-android/android-start/app/build/intermediates/res/merged/debug/layout/abc_list_menu_item_layout.xml",
         "source": "/home/tony/.android/build-cache/bc29da7581ef0729fe099dba78b210a122dfd43a/output/res/layout/abc_list_menu_item_layout.xml"
+    },
+    {
+        "merged": "/home/tony/Documents/AndroidTrainning/FBCodeLab/friendlychat-android/android-start/app/build/intermediates/res/merged/debug/layout/tw__tweet.xml",
+        "source": "/home/tony/.android/build-cache/1720c9030cb4ba915876361b051e2fb2e5b5cae4/output/res/layout/tw__tweet.xml"
     },
     {
         "merged": "/home/tony/Documents/AndroidTrainning/FBCodeLab/friendlychat-android/android-start/app/build/intermediates/res/merged/debug/layout/activity_sign_in.xml",
@@ -252,8 +284,20 @@
         "source": "/home/tony/Documents/AndroidTrainning/FBCodeLab/friendlychat-android/android-start/app/src/main/res/layout/item_message.xml"
     },
     {
+        "merged": "/home/tony/Documents/AndroidTrainning/FBCodeLab/friendlychat-android/android-start/app/build/intermediates/res/merged/debug/layout/tw__tweet_quote.xml",
+        "source": "/home/tony/.android/build-cache/1720c9030cb4ba915876361b051e2fb2e5b5cae4/output/res/layout/tw__tweet_quote.xml"
+    },
+    {
         "merged": "/home/tony/Documents/AndroidTrainning/FBCodeLab/friendlychat-android/android-start/app/build/intermediates/res/merged/debug/layout/messenger_button_send_blue_small.xml",
         "source": "/home/tony/.android/build-cache/91b413f1176f1fb5f66ab5de619f8831fd7d9cac/output/res/layout/messenger_button_send_blue_small.xml"
+    },
+    {
+        "merged": "/home/tony/Documents/AndroidTrainning/FBCodeLab/friendlychat-android/android-start/app/build/intermediates/res/merged/debug/layout/tw__video_control.xml",
+        "source": "/home/tony/.android/build-cache/1720c9030cb4ba915876361b051e2fb2e5b5cae4/output/res/layout/tw__video_control.xml"
+    },
+    {
+        "merged": "/home/tony/Documents/AndroidTrainning/FBCodeLab/friendlychat-android/android-start/app/build/intermediates/res/merged/debug/layout/tw__media_badge.xml",
+        "source": "/home/tony/.android/build-cache/1720c9030cb4ba915876361b051e2fb2e5b5cae4/output/res/layout/tw__media_badge.xml"
     },
     {
         "merged": "/home/tony/Documents/AndroidTrainning/FBCodeLab/friendlychat-android/android-start/app/build/intermediates/res/merged/debug/layout/abc_activity_chooser_view_list_item.xml",

@@ -20,6 +20,10 @@
         "source": "/home/tony/.android/build-cache/52b56daa6b418de31c994cf0a492c5cff729e932/output/res/drawable-v21/design_password_eye.xml"
     },
     {
+        "merged": "/home/tony/Documents/AndroidTrainning/FBCodeLab/friendlychat-android/android-start/app/build/intermediates/res/merged/debug/drawable-v21/tw__like_action.xml",
+        "source": "/home/tony/.android/build-cache/1720c9030cb4ba915876361b051e2fb2e5b5cae4/output/res/drawable-v21/tw__like_action.xml"
+    },
+    {
         "merged": "/home/tony/Documents/AndroidTrainning/FBCodeLab/friendlychat-android/android-start/app/build/intermediates/res/merged/debug/drawable-v21/abc_btn_colored_material.xml",
         "source": "/home/tony/.android/build-cache/bc29da7581ef0729fe099dba78b210a122dfd43a/output/res/drawable-v21/abc_btn_colored_material.xml"
     },

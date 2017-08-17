@@ -14,18 +14,35 @@
         android:layout_gravity="center_horizontal"
         android:layout_marginTop="40dp"
         android:text="@string/sign_in"/>
-
+<LinearLayout
+    android:weightSum="6"
+    android:layout_width="match_parent"
+    android:layout_height="wrap_content"
+    android:orientation="vertical"
+    android:layout_marginTop="100dp">
     <com.google.android.gms.common.SignInButton
         android:id="@+id/sign_in_button"
         android:layout_width="wrap_content"
         android:layout_height="wrap_content"
         android:layout_centerInParent="true"
         android:visibility="visible"
-        android:layout_gravity="center"/>
+        android:layout_gravity="center"
+        android:layout_weight="2"/>
     <com.facebook.login.widget.LoginButton
         android:id="@+id/login_button"
         android:layout_width="wrap_content"
         android:layout_height="wrap_content"
+        android:layout_gravity="center"
+        android:layout_weight="2"
+        android:layout_marginTop="15dp"
         />
-
+    <com.twitter.sdk.android.core.identity.TwitterLoginButton
+        android:id="@+id/login_button_tw"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_gravity="center"
+        android:layout_weight="2"
+        android:layout_marginTop="15dp"
+        />
+</LinearLayout>
 </FrameLayout>

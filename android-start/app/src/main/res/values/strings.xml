@@ -14,4 +14,6 @@
     <string name="banner_ad_unit_id" translatable="false">ca-app-pub-3940256099942544/6300978111</string>
     <string name="facebook_app_id">160828494493861</string>
     <string name="fb_login_protocol_scheme">fb160828494493861</string>
+    <string name="com.twitter.sdk.android.CONSUMER_KEY" translatable="false">q7SxZbwIlU2u7Z0fXdis49jtu</string>
+    <string name="com.twitter.sdk.android.CONSUMER_SECRET">zdcEmPDrH8PXsA4IYnjxnW3APRT3m4nI3H0DufGfuAfKUgpd6W</string>
 </resources>
